@@ -14,3 +14,10 @@ Now, let's add a codeblock.
 print("This is a code block")
 ```
 is a python code.
+
+Now, it's time to create a task list.
+
+
+- [ ] Read the lesson notes
+- [ ] Do the exercises
+- [ ] Do the knowledge check
